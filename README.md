@@ -11,6 +11,6 @@ I am Dimitra and I am originally from a small island called Chios in North Aegea
 👩‍🎓 2022-2025: In parallel with my jobs, I started attending a master's program in Computer Science in National and Kapodistrian University of Athens <br>
 
 In my free time, I enjoy music, dancing and drink wine and tsipouro with my friends. <br>
-I also love to travel around the world<img src="https://github.com/user-attachments/assets/cc9cab27-439d-48a7-a381-1ef74311663b" alt="My Animated GIF" width="45"/>and it is my first priority when I get the chance!
+I also love to travel around the world<img src="https://github.com/user-attachments/assets/cc9cab27-439d-48a7-a381-1ef74311663b" alt="My Animated GIF" width="45"/> and it is my first priority when I get the chance!
 <br> <br>
 [Explore to know me better!](https://demetrakostala.wixsite.com/allaboutme)
