@@ -1,6 +1,10 @@
 # <samp> Hello! </samp>
 ![penguin-10607_128](https://github.com/user-attachments/assets/75f588bc-9bcd-4b50-8520-63208ef9ed88)
 
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/dimitra-kostala/)](https://www.linkedin.com/in/dimitra-kostala/)
+[![GMAIL Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:demetrakostala@gmail.com)](mailto:demetrakostala@gmail.com)
+
+
 ## <samp>A Bit About me</samp>
 
 <samp> I am Dimitra and I am originally from a small island called Chios in North Aegean Sea of Greece 🇬🇷.</samp>  <br> <br>
