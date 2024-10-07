@@ -13,3 +13,11 @@ In my free time, I enjoy music, dancing and drink wine and tsipouro with my frie
 I also love to travel around the world 🌍 and it is my first priority when I get the chance!
 <br> <br>
 [Explore to know me better!](https://demetrakostala.wixsite.com/allaboutme)
+
+
+![the-plane-13509_128](https://github.com/user-attachments/assets/6f583015-346b-46d3-b48e-3cedb8c87001)
+
+# My GIF Example
+
+<img src="https://github.com/user-attachments/assets/6f583015-346b-46d3-b48e-3cedb8c87001" alt="My Animated GIF" width="50"/>
+
