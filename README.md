@@ -3,7 +3,7 @@
 
 ## A Bit About Me
 
-I am Dimitra and I am originally from a small island called Chios in North Aegean of Greece./
+I am Dimitra and I am originally from a small island called Chios in North Aegean of Greece.[^1]
 👩‍🎓 2018: I obtained my bachelor's degree in Management Science and Technology/
 👩‍💻 2018-2024: Started working as intern Database Engineer and then as a full-time employee at Impact Information Systems, Greece/
 👩‍🔬 2024-2025: Started a technical studenship of a duration of one year at CERN as an Oracle Database Developer/
