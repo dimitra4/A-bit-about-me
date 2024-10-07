@@ -1,16 +1,16 @@
-
-# Hello! 
+# 𝙷𝚎𝚕𝚕𝚘!
 ![penguin-10607_128](https://github.com/user-attachments/assets/75f588bc-9bcd-4b50-8520-63208ef9ed88)
 
-## A Bit About Me
+## 𝙰 𝙱𝚒𝚝 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
-I am Dimitra and I am originally from a small island called Chios in North Aegean of Greece 🇬🇷. <br> <br>
-📜 2018: I obtained my bachelor's degree in Management Science and Technology <br>
-👩‍💻 2018-2024: Started working as intern Database Engineer and then as a full-time employee at Impact Information Systems <br>
-🎇 2024-2025: Started a technical studenship of a duration of one year at CERN as an Oracle Database Developer <br>
-👩‍🎓 2022-2025: In parallel with my jobs, I started attending a master's program in Computer Science in National and Kapodistrian University of Athens <br>
+𝙸 𝚊𝚖 𝙳𝚒𝚖𝚒𝚝𝚛𝚊 𝚊𝚗𝚍 𝙸 𝚊𝚖 𝚘𝚛𝚒𝚐𝚒𝚗𝚊𝚕𝚕𝚢 𝚏𝚛𝚘𝚖 𝚊 𝚜𝚖𝚊𝚕𝚕 𝚒𝚜𝚕𝚊𝚗𝚍 𝚌𝚊𝚕𝚕𝚎𝚍 𝙲𝚑𝚒𝚘𝚜 𝚒𝚗 𝙽𝚘𝚛𝚝𝚑 𝙰𝚎𝚐𝚎𝚊𝚗 𝚘𝚏 𝙶𝚛𝚎𝚎𝚌𝚎 🇬🇷.<br> <br>
 
-In my free time, I enjoy music, dancing and drink wine and tsipouro with my friends. <br>
-I also love to travel around the world<img src="https://github.com/user-attachments/assets/cc9cab27-439d-48a7-a381-1ef74311663b" alt="My Animated GIF" width="45"/> and it is my first priority when I get the chance!
+📜 **𝟸𝟶𝟷𝟾**: &nbsp;𝙸 𝚘𝚋𝚝𝚊𝚒𝚗𝚎𝚍 𝚖𝚢 𝚋𝚊𝚌𝚑𝚎𝚕𝚘𝚛'𝚜 𝚍𝚎𝚐𝚛𝚎𝚎 𝚒𝚗 𝙼𝚊𝚗𝚊𝚐𝚎𝚖𝚎𝚗𝚝 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚊𝚗𝚍 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚢 <br>
+👩‍💻 **𝟸𝟶𝟷𝟾-𝟸𝟶𝟸𝟺**: &nbsp;𝚂𝚝𝚊𝚛𝚝𝚎𝚍 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚊𝚜 𝚒𝚗𝚝𝚎𝚛𝚗 𝙳𝚊𝚝𝚊𝚋𝚊𝚜𝚎 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛 𝚊𝚗𝚍 𝚝𝚑𝚎𝚗 𝚊𝚜 𝚊 𝚏𝚞𝚕𝚕-𝚝𝚒𝚖𝚎 𝚎𝚖𝚙𝚕𝚘𝚢𝚎𝚎 𝚊𝚝 𝙸𝚖𝚙𝚊𝚌𝚝 𝙸𝚗𝚏𝚘𝚛𝚖𝚊𝚝𝚒𝚘𝚗 𝚂𝚢𝚜𝚝𝚎𝚖𝚜 <br>
+🎇 **𝟸𝟶𝟸𝟺-𝟸𝟶𝟸𝟻**: &nbsp;𝚂𝚝𝚊𝚛𝚝𝚎𝚍 𝚊 𝚝𝚎𝚌𝚑𝚗𝚒𝚌𝚊𝚕 𝚜𝚝𝚞𝚍𝚎𝚗𝚜𝚑𝚒𝚙 𝚘𝚏 𝚊 𝚍𝚞𝚛𝚊𝚝𝚒𝚘𝚗 𝚘𝚏 𝚘𝚗𝚎 𝚢𝚎𝚊𝚛 𝚊𝚝 𝙲𝙴𝚁𝙽 𝚊𝚜 𝚊𝚗 𝙾𝚛𝚊𝚌𝚕𝚎 𝙳𝚊𝚝𝚊𝚋𝚊𝚜𝚎 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 <br>
+👩‍🎓 **𝟸𝟶𝟸𝟸-𝟸𝟶𝟸𝟻**: &nbsp;𝙸𝚗 𝚙𝚊𝚛𝚊𝚕𝚕𝚎𝚕 𝚠𝚒𝚝𝚑 𝚖𝚢 𝚓𝚘𝚋𝚜, 𝙸 𝚜𝚝𝚊𝚛𝚝𝚎𝚍 𝚊𝚝𝚝𝚎𝚗𝚍𝚒𝚗𝚐 𝚊 𝚖𝚊𝚜𝚝𝚎𝚛'𝚜 𝚙𝚛𝚘𝚐𝚛𝚊𝚖 𝚒𝚗 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚒𝚗 𝙽𝚊𝚝𝚒𝚘𝚗𝚊𝚕 𝚊𝚗𝚍 𝙺𝚊𝚙𝚘𝚍𝚒𝚜𝚝𝚛𝚒𝚊𝚗 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝚘𝚏 𝙰𝚝𝚑𝚎𝚗𝚜 <br><br>
+
+𝙸𝚗 𝚖𝚢 𝚏𝚛𝚎𝚎 𝚝𝚒𝚖𝚎, 𝙸 𝚎𝚗𝚓𝚘𝚢 𝚖𝚞𝚜𝚒𝚌, 𝚍𝚊𝚗𝚌𝚒𝚗𝚐 𝚊𝚗𝚍 𝚍𝚛𝚒𝚗𝚔 𝚠𝚒𝚗𝚎 𝚊𝚗𝚍 𝚝𝚜𝚒𝚙𝚘𝚞𝚛𝚘 𝚠𝚒𝚝𝚑 𝚖𝚢 𝚏𝚛𝚒𝚎𝚗𝚍𝚜.<br>
+𝙸 𝚊𝚕𝚜𝚘 𝚕𝚘𝚟𝚎 𝚝𝚘 𝚝𝚛𝚊𝚟𝚎𝚕 𝚊𝚛𝚘𝚞𝚗𝚍 𝚝𝚑𝚎 𝚠𝚘𝚛𝚕𝚍<img src="https://github.com/user-attachments/assets/cc9cab27-439d-48a7-a381-1ef74311663b" alt="My Animated GIF" width="45"/>𝚊𝚗𝚍 𝚒𝚝 𝚒𝚜 𝚖𝚢 𝚏𝚒𝚛𝚜𝚝 𝚙𝚛𝚒𝚘𝚛𝚒𝚝𝚢 𝚠𝚑𝚎𝚗 𝙸 𝚐𝚎𝚝 𝚝𝚑𝚎 𝚌𝚑𝚊𝚗𝚌𝚎!
 <br> <br>
-[Explore to know me better!](https://demetrakostala.wixsite.com/allaboutme)
+[𝙴𝚡𝚙𝚕𝚘𝚛𝚎 𝚝𝚘 𝚔𝚗𝚘𝚠 𝚖𝚎 𝚋𝚎𝚝𝚝𝚎𝚛!](https://demetrakostala.wixsite.com/allaboutme) 
